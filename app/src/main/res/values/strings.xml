@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CircuitoRLC</string>
+    <string name="Titulo">Bienvenido a nuestra aplicacion</string>
+    <string name="Sub_Titulo">Permite graficar la respuesta natural de un Circuito RLC</string>
+    <string name="Opciones">Selecione el tipo de Circuito:</string>
+    <string name="Serie">Serie</string>
+    <string name="Resistencia">Resistencia (Ohm):</string>
+    <string name="Inductor">Inductor (H):</string>
+    <string name="Capacitor">Capacitor (F):</string>
+    <string name="Corriente">Corriente Inicial en L(A):</string>
+    <string name="Voltaje">Voltaje Inicial en C (V):</string>
+    <string name="TipoCircuito">Tipo de Circuito:</string>
+    <!--> Activity de circuito paralelo </-->
+    <string name="Paralelo">Paralelo</string>
+    <string name="Btn_Calcular">Mostrar grafica</string>
+    <string name="Lbl_Tiempo">Tiempo final (s)</string>
+    <string name="seleccion">Elija la funcion a graficar</string>
+    <string name="rbVolt">V(t) en Capacitor</string>
+    <string name="rbCorriente">I(t) en Inductor</string>
+    <!--> Activity de grafica </-->
+    <string name="tituloGraf">Titulo</string>
+    <string name="datosNecesario">Datos</string>
+
+</resources>
